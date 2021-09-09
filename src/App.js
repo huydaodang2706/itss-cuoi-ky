@@ -2,7 +2,9 @@ import './App.css';
 import Delete from './components/Delete';
 function App() {
   return (
-    <Delete/>
+    <div className='cs-container'>
+      <Delete/>
+    </div>
   );
 }
 

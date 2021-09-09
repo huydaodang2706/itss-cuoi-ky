@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.cs-container{
+  height: 1000px;
+  width: 600px;
+  margin-top: 20px;
+  margin-left: 40px;
+}
+
+.cs-block{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.cs-button{
+  margin-left: 120px;
+}
